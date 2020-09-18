@@ -22,13 +22,19 @@
   <body>
     <p><b>Software Development:-</b></p>
     <p> 1) Smart India Hackathon 2019 build a platform to connect doctor and MR (team project) <a href="https://github.com/amritanjali123/sih">open</a>  </p> 
-      <p> 2)Writen Script to automatically generate mail and send to list of email id using SMTP protocol Sucessfully Used during techFest'20 </p>
+      <p> 2) Writen Script to automatically generate mail and send to list of email id using SMTP protocol Sucessfully Used during techFest'20 </p>
     <p> 3) Android App where user can post blog and can see it in their feed with authentication features <a href="https://github.com/amritanjali123/blogapp">open</a></p> 
     <p> 4)Learning Project Calculator, Calling app etc <a href="https://github.com/amritanjali123/Calculator">open</a> <a href="https://github.com/amritanjali123/Animation">open</a> <a href="https://github.com/amritanjali123/CALL">open</a>
     <a href="https://github.com/amritanjali123/Autocomplet">open</a></p>
- 
-    
- 
-     
   </body>
 </html>
+
+<html>
+  <body>
+    <p><b>Software Development:-</b></p>
+    <p> 1) Pick and place bot using Dijkstra's Shortest Path First algorithm by V-REP (team project) <a href="https://github.com/amritanjali123/eyantra">open</a></p> 
+    <p> 2) Pick and place bot using Dijkstra's Shortest Path First algorithm for microcontroller Atmega 2560 (team project) <a href="https://github.com/amritanjali123/Pick_And_Place_Robot">open</a></p> 
+    <p> 3)Implemented frequency filters on sensor data, Generated motion equation for physical System and simulated (team project) <a href="https://github.com/amritanjali123/Control_System">open</a> </p>
+  </body>
+</html>
+
