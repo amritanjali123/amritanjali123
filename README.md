@@ -3,8 +3,8 @@
   <body>
     <h1>AMRITANJALI</h1>
     <p>Open Resume <a href="https://github.com/amritanjali123/Portfolio/blob/master/Amritanjali(RESUME).pdf">Amritanjali</a>.</p>
-    <link rel="stylesheet" href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/">
-    <a href="#" class="fa fa-facebook"></a>
+    <ul>  <a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/">linkdin</a></ul>
+    
   </body>
 </html>
 <html>
