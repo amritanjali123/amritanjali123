@@ -7,7 +7,7 @@
 </html>
 <html>
   <body>
-    <h3 style="font-size:100px"><b>Machine Learning and Computer Vision Projects:-</b></h3>
+    <h3><b>Machine Learning and Computer Vision Projects:-</b></h3>
     <ul>
     <li><p>Detecting clouds and predicting their movement from INSAT imagery (team project) <a href="https://github.com/amritanjali123/NM373_Future_Predicators">open</a>  </p></li>
      <li> <p>CNN based project using Keras use to classify different type of rocks in lunar rock images <a href="https://github.com/amritanjali123/Rock_classification">open</a></p></li>
