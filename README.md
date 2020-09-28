@@ -29,7 +29,7 @@
    <li> <p>Smart India Hackathon 2019 build a platform to connect doctor and MR (team project) <a href="https://github.com/amritanjali123/sih">open</a>  </p> </li>
      <li> <p>Writen Script to automatically generate mail and send to list of email id using SMTP protocol Used during techFest'20 </p>       </li>
    <li> <p>Android App where user can post blog and can see it in their feed with authentication features <a href="https://github.com/amritanjali123/blogapp">open</a></p> </li>
-    <li><p>Learning Project Calculator, Calling app etc <a href="https://github.com/amritanjali123/Calculator">open</a> <a href="https://github.com/amritanjali123/Animation">open</a> <a href="https://github.com/amritanjali123/CALL">open</a>
+    <li><p>Learning Project Calculator, Calling app, Search autocomplete etc <a href="https://github.com/amritanjali123/Calculator">open</a> <a href="https://github.com/amritanjali123/Animation">open</a> <a href="https://github.com/amritanjali123/CALL">open</a>
     <a href="https://github.com/amritanjali123/Autocomplet">open</a></p></li>
     </ul>
   </body>
