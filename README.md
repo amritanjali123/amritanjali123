@@ -4,8 +4,8 @@
 <html>
   <body>
     <h1 align="center">Hi 👋, Amritanjali</h1>
-    <p align="center">👩🏽‍💻<a href="https://github.com/amritanjali123/Portfolio/blob/master/Amritanjali(RESUME).pdf">Resume📄</a>.</p>
-    <ul align="center">👩🏽‍💻<a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/">linkdin📫</a></ul>
+    <ul align="center">👩🏽‍💻<a href="https://github.com/amritanjali123/Portfolio/blob/master/Amritanjali(RESUME).pdf">Resume📄</a>.</ul>
+    <ul align="center">👩🏽‍💻<a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/">linkdin📫 </a></ul>
     <ul align="center">🏆<a href="https://www.hackerrank.com/amrit5?hr_r=1">Hackerrank</a>✔️</ul>
     <ul align="center">🏆<a href="https://www.codechef.com/users/amrit5">Codechef</a>✔️</ul>
     
