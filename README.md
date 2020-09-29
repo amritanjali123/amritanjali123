@@ -5,7 +5,7 @@
   <body>
     <h1 align="center">Hi 👋, Amritanjali</h1>
     <ul align="center">👩🏽‍💻<a href="https://github.com/amritanjali123/Portfolio/blob/master/Amritanjali(RESUME).pdf">Resume📄</a>.</ul>
-    <ul align="center">👩🏽‍💻<a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/">linkdin📫 </a></ul>
+    <ul align="center">👩🏽‍💻<a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/">Linkdin📫</a></ul>
     <ul align="center">🏆<a href="https://www.hackerrank.com/amrit5?hr_r=1">Hackerrank</a>✔️</ul>
     <ul align="center">🏆<a href="https://www.codechef.com/users/amrit5">Codechef</a>✔️</ul>
     
@@ -46,9 +46,14 @@
    <li><p>Pick and place bot using Dijkstra's Shortest Path First algorithm for microcontroller Atmega 2560 (team project) <a href="https://github.com/amritanjali123/Pick_And_Place_Robot">open</a></p></li> 
     <li><p>Implemented frequency filters on sensor data, Generated motion equation for physical System  (team project) <a href="https://github.com/amritanjali123/Control_System">open</a> </p></li>
     </ul>
+    
+ <p>✌🏻 Apart from Coding I love Chess ♔, Taekwondo 🥋</p>
+
+
+<footer>
+  <p>Thank You</p>
+  <p><a href="mailto:amritanjai918@gmail.com">amritanjali918@gmail.com</a></p>
+</footer>   
  </body>
 
 </html>
-<p>✌🏻 Apart from Coding I love Chess ♔, Taekwondo 🥋</p>
-
-
