@@ -49,5 +49,6 @@
  </body>
 
 </html>
-<p>✌🏻 Apart from Coding **I love Chess ♔, Taekwondo 🥋**</p>
+<p>✌🏻 Apart from Coding I love Chess ♔, Taekwondo 🥋</p>
+
 
