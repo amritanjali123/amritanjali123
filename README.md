@@ -64,9 +64,12 @@
 
 
 <footer>
+  <div align="center">
   <p>Thank You</p>
   <p><a href="mailto:amritanjai918@gmail.com">amritanjali918@gmail.com</a></p>
-</footer>   
+     </div>
+</footer>  
+ 
  </body>
 
 </html>
