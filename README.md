@@ -11,7 +11,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" height="30" width="40" /></a>
 <a href="https://instagram.com/amritanjai_dubey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amritanjai_dubey" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/Amritanjali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Amritanjali" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/amrit5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amrit5" height="30" width="40" /></a>
