@@ -1,6 +1,10 @@
+<html>
+  <body>
 <div align="center">
 <img src="https://github.com/amritanjali123/About-Me-and-my-Projects/blob/master/giif.gif" />
 </div>
+</body>
+</html>    
 <html>
   <body>
     <h1 align="center">Hi 👋, Amritanjali</h1>
