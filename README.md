@@ -2,13 +2,14 @@
   <body>
 <div align="center">
 <img src="https://github.com/amritanjali123/About-Me-and-my-Projects/blob/master/giif.gif" />
+
 </div>
 </body>
 </html>    
 <html>
   <body>
     <h1 align="center">Hi 👋, Amritanjali</h1>
-    <ul align="center">👩🏽‍💻<a href="https://github.com/amritanjali123/Portfolio/blob/master/Amritanjali(RESUME).pdf">Resume📄</a>.</ul>   
+    <ul align="center">👩🏽‍💻<a href="https://github.com/amritanjali123/Portfolio/blob/master/Amritanjali(RESUME).pdf">Resume📄</a></ul>   
   </body>
 </html>
 <p align="left">
@@ -69,7 +70,7 @@
 
 <footer>
   <div align="center">
-  <p>Thank You</p>
+  <p><b>Thank You</b></p>
   <p><a href="mailto:amritanjai918@gmail.com">amritanjali918@gmail.com</a></p>
      </div>
 </footer>  
