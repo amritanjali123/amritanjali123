@@ -1,5 +1,4 @@
-<html>
-  <body>
+
     
 <html>
   <body>
@@ -77,7 +76,10 @@
    <li><p>Pick and place bot using Dijkstra's Shortest Path First algorithm for microcontroller Atmega 2560 (team project) <a href="https://github.com/amritanjali123/Pick_And_Place_Robot">open</a></p></li> 
     <li><p>Implemented frequency filters on sensor data, Generated motion equation for physical System  (team project) <a href="https://github.com/amritanjali123/Control_System">open</a> </p></li>
     </ul>
-    
+  </body>
+  </html>
+  <html>
+  <body>
  <p>✌🏻 Apart from Coding I love Chess ♔, Taekwondo 🥋</p>
 
 
@@ -88,8 +90,6 @@
      </div>
 </footer>  
  
- </body>
-
-</html>
-</body>
+  
+  </body>
 </html>
