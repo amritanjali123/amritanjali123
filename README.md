@@ -1,18 +1,20 @@
 <html>
   <body>
+<html>
+  <body>
 <div align="center">
 <img src="https://github.com/amritanjali123/About-Me-and-my-Projects/blob/master/giif.gif" />
 </div>  
   </body>
 </html>
 
-
+<!--
 <html>
 <body>
 <div align="center">
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
  </div>  
-</iframe>
+</iframe> -->
 
 </body>
 </html>
@@ -88,4 +90,6 @@
  
  </body>
 
+</html>
+</body>
 </html>
