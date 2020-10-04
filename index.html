@@ -136,7 +136,55 @@ ourwork{
         -moz-filter: drop-shadow(0 0 20px pink);
         filter: drop-shadow(0 0 20px pink);
     }
-
+.card span2{
+        height: 100%;
+        left: 0;
+        background-image: url("tcslogo.png");
+        position: absolute;
+        transition: 1s;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    .card span2:nth-child(1){
+        z-index: 10;
+        width: 25%;
+        transition-delay: 0s;
+    }
+    .card span2:nth-child(2){
+        z-index: 9;
+        width: 50%;
+        transition-delay: 0.3s;
+    }
+    .card span2:nth-child(3){
+        z-index: 8;
+        width: 75%;
+        transition-delay: 0.6s;
+    }
+    .card span2:nth-child(4){
+        z-index: 7;
+        width: 100%;
+        transition-delay: 0.8s;
+    }
+    .card:hover span2{
+        -webkit-transform: translateY(-100%);
+        -ms-transform: translateY(-100%);
+        -khtml-transform: translateY(-100%);
+        -moz-transform: translateY(-100%);
+        transform: translateY(-100%);
+        transition: 1s;
+    }
+    .card:hover span2:nth-child(1){
+        transition-delay: 0.8s;
+    }
+    .card:hover span2:nth-child(2){
+        transition-delay: 0.6s;
+    }
+    .card:hover span2:nth-child(3){
+        transition-delay: 0.3s;
+    }
+    .card:hover span2:nth-child(4){
+        transition-delay: 0s;
+    }
     
 </style>
 <header>
@@ -229,8 +277,16 @@ style="margin-top: 25px;"
  
 
 
-    <h3> 👩🏽‍💻 <b>EXPERIENCE : DEEPLEARNING INTERNSHIP <a> <img src="tcslogo.jpg" alt="javascript" width="40" height="40"/> </a> TATA CONSULTANCY SERVICES 📈</b></h3>
-    <ul>
+    <h3> 👩🏽‍💻 <b>EXPERIENCE </h3>
+	  
+	  <div id="ourwork" class="ourwork">
+            <div class="works">
+            <div class="card">
+                    <span2></span2><span2></span2><span2></span2><span2></span2>
+                    <div class="content">
+                        <h2>DEEPLEARNING INTERNSHIP</h2>
+                        <p>
+			    <ul>
     <li><p>Worked on FACTS 7.0 (Fingerprint Analysis Criminal Tracing System) </p></li>
      <li> <p>Role: - Core and Delta Detection by image processing and deep learning technique </p></li>
     <li><p>Implemented Research Paper, Used Candidate analysis to detect the location of core or delta, U-Net
@@ -238,6 +294,13 @@ Architecture for training the model to improve the accuracy (achieved 98%) and s
 on custom dataset. Tested the output with existing fingerprints data</p></li>
    
  </ul>  
+			    </p>
+                    </div>
+            </div>
+   </div>
+  </div> 
+	   
+    
   
 
 
