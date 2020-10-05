@@ -538,27 +538,38 @@ filter: drop-shadow(-15px 15px 7px black);
             <h3 style="margin-top: 50px; color: #111344; font-size: 2rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Contact Me</h3>
 
             <div class="container">
-                <form
-                    action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSe1cxLhUX8g2ZTnhdafx4k6jumARg3i2V9_vCEo7d3RWidfPA/formResponse">
+                <form  method="post" autocomplete="off" name="google-sheet">
+                     
                     <label for="fname" style="color: #111344; font-size: 1.3rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">First Name</label>
-                    <input type="text" id="name" name="firstname" placeholder="Your name.." required name="">
+                    <input type="text" id="name" name="name" placeholder="Your name.." >
 
                     <label for="lname" style="color: #111344; font-size: 1.3rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Email</label>
-                    <input type="text" id="email" name="lastname" placeholder="Your email.." required name="">
+                    <input type="text" id="email" name="email" placeholder="Your email.." >
 
                     <label for="country" style="color: #111344; font-size: 1.3rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Country</label>
-                    <input type="text" id="country" name="country" placeholder="Your country" required name="">
+                    <input type="text" id="country" name="country" placeholder="Your country" >
                     </select>
 
                     <label for="subject" style="color: #111344; font-size: 1.3rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Subject</label>
-                    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px" required
-                        name=""></textarea>
+                    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px" 
+                        ></textarea>
 
                     <input type="submit" value="Submit">
                 </form>
             </div>
 
 
+ <script>
+            const scriptURL = 'https://script.google.com/macros/s/AKfycbxtYzOYEknGuFGQGqCA76ObYsXJllhNWs0-6XTSJkEGr5DifDhZ/exec'
+            const form = document.forms['google-sheet']
+          
+            form.addEventListener('submit', e => {
+              e.preventDefault()
+              fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            })
+          </script>
 
 
 
