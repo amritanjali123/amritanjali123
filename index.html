@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="icon" href="thumnail.jpg" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Cinzel+Decorative&family=Josefin+Sans&family=Merriweather:wght@300&family=Montserrat&family=Playfair+Display&family=Raleway&family=Sansita+Swashed:wght@300&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="amritanjali, amrita, dubey, profile, sliet, longowal, sant longowal institute of engineering and technology, SLIET, portfolio">
+    <meta name="description" content="Connect to AMRITANJALI">
+    <meta name="author" content="Amritanjali">
+    <title>Welcome to Amritanjali's Portfolio. Hope you have a good time.</title>
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+</head>
+
+<body style="margin: 0; padding: 0;">
+    <div style="
+     padding: 3rem 3rem;
+     background-color:#F9CFF2;">
+
+    <div style="
+    padding: 2rem 4rem;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin: 0 auto;
+    background-color:#DAE0F2;">
+
+            <style>
+                ourwork {
+                    width: 100%;
+                    margin: 0 auto;
+                    padding: 50px 0;
+                    position: relative;
+                    z-index: 99;
+                    box-sizing: content-box;
+                    height: auto;
+                }
+
+                .works {
+                    position: relative;
+                    z-index: 100;
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: center;
+                }
+
+                .card {
+                    display: flex;
+                    justify-content: center;
+                    flex-wrap: wrap;
+                    height: 25rem;
+                    width: 25rem;
+                    background-attachment: transparent;
+                    margin: 3% 3%;
+                    position: relative;
+                    border-radius: 20px 60px;
+                    z-index: 1;
+                    overflow: hidden;
+                    transition: 3s;
+                    filter: drop-shadow(-15px 15px 7px black);
+                    -webkit-filter: drop-shadow(-15px 15px 7px black);
+                    -ms-filter: drop-shadow(-15px 15px 7px black);
+                    -khtml-filter: drop-shadow(-15px 15px 7px black);
+                    -moz-filter: drop-shadow(-15px 15px 7px black);
+                }
+
+                .card span {
+                    height: 100%;
+                    left: 0;
+                    background-image: url("figg.jpg");
+                    position: absolute;
+                    transition: 1s;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                }
+
+                .card span:nth-child(1) {
+                    z-index: 10;
+                    width: 25%;
+                    transition-delay: 0s;
+                }
+
+                .card span:nth-child(2) {
+                    z-index: 9;
+                    width: 50%;
+                    transition-delay: 0.3s;
+                }
+
+                .card span:nth-child(3) {
+                    z-index: 8;
+                    width: 75%;
+                    transition-delay: 0.6s;
+                }
+
+                .card span:nth-child(4) {
+                    z-index: 7;
+                    width: 100%;
+                    transition-delay: 0.8s;
+                }
+
+                .card:hover span {
+                    -webkit-transform: translateY(-100%);
+                    -ms-transform: translateY(-100%);
+                    -khtml-transform: translateY(-100%);
+                    -moz-transform: translateY(-100%);
+                    transform: translateY(-100%);
+                    transition: 1s;
+                }
+
+                .card:hover span:nth-child(1) {
+                    transition-delay: 0.8s;
+                }
+
+                .card:hover span:nth-child(2) {
+                    transition-delay: 0.6s;
+                }
+
+                .card:hover span:nth-child(3) {
+                    transition-delay: 0.3s;
+                }
+
+                .card:hover span:nth-child(4) {
+                    transition-delay: 0s;
+                }
+
+                .content {
+                    color: #111344;
+                    text-align: center;
+                    padding: 10px 10px;
+                    width: 100%;
+                    height: 100%;
+                    box-sizing: border-box;
+                    -webkit-transform: translateY(100%);
+                    -ms-transform: translateY(100%);
+                    -khtml-transform: translateY(100%);
+                    -moz-transform: translateY(100%);
+                    transform: translateY(100%);
+                    transition: 1.8s;
+                    font-size: 22px;
+                    font-family: 'Berkshire Swash', cursive;
+                }
+
+                .content p {
+                    padding-top: 20px;
+                    color: #52154E;
+                    font-size: 17px;
+                    font-family: 'Sansita Swashed';
+                }
+
+                .card:hover .content {
+                    -webkit-transform: translateY(0%);
+                    -ms-transform: translateY(0%);
+                    -khtml-transform: translateY(0%);
+                    -moz-transform: translateY(0%);
+                    transform: translateY(0%);
+                }
+
+                .card:hover {
+                    -webkit-filter: drop-shadow(0 0 20px pink);
+                    -ms-filter: drop-shadow(0 0 20px pink);
+                    -khtml-filter: drop-shadow(0 0 20px pink);
+                    -moz-filter: drop-shadow(0 0 20px pink);
+                    filter: drop-shadow(0 0 20px pink);
+                }
+
+                .card span2 {
+                    height: 100%;
+                    left: 0;
+                    background-image: url("tcs1.png");
+                    position: absolute;
+                    transition: 1s;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                }
+
+                .card span2:nth-child(1) {
+                    z-index: 10;
+                    width: 25%;
+                    transition-delay: 0s;
+                }
+
+                .card span2:nth-child(2) {
+                    z-index: 9;
+                    width: 50%;
+                    transition-delay: 0.3s;
+                }
+
+                .card span2:nth-child(3) {
+                    z-index: 8;
+                    width: 75%;
+                    transition-delay: 0.6s;
+                }
+
+                .card span2:nth-child(4) {
+                    z-index: 7;
+                    width: 100%;
+                    transition-delay: 0.8s;
+                }
+
+                .card:hover span2 {
+                    -webkit-transform: translateY(-100%);
+                    -ms-transform: translateY(-100%);
+                    -khtml-transform: translateY(-100%);
+                    -moz-transform: translateY(-100%);
+                    transform: translateY(-100%);
+                    transition: 1s;
+                }
+
+                .card:hover span2:nth-child(1) {
+                    transition-delay: 0.8s;
+                }
+
+                .card:hover span2:nth-child(2) {
+                    transition-delay: 0.6s;
+                }
+
+                .card:hover span2:nth-child(3) {
+                    transition-delay: 0.3s;
+                }
+
+                .card:hover span2:nth-child(4) {
+                    transition-delay: 0s;
+                }
+            </style>
+            <header>
+                <h1 align="center" style="margin-top: -1rem; color: #111344; font-family: 'Cinzel Decorative', cursive; font-size: 2.5rem; letter-spacing: 0.2rem;">Allow Me to Introduce Myself.</h1>
+                <h2 align="center" style="margin-top: -1.1rem; color: #2F195F; font-family: 'Montserrat', sans-serif; font-size: 2.4rem; letter-spacing: 0.2rem;">Hi 👋, AMRITANJALI</h2>
+                <hr style="border: 0.2rem dashed #111344; width: 15%;">
+            </header>
+
+            <div id="ourwork" class="ourwork">
+                <div class="works" style="margin-top: -1.5rem;">
+                    <div class="card">
+                        <span></span><span></span><span></span><span></span>
+                        <div class="content">
+                            <h2 style="font-family: 'Cinzel Decorative', cursive; letter-spacing: 0.2rem; margin-top: -0.2rem;">ABOUT</h2>
+                            <p style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.2rem; font-size: 0.95rem; margin-top: -2.5rem; font-weight: bold;"> A highly motivated and passionate undergraduate with strong passion for self-improvement
+                                who actively participates in many competitive programming contests at various platforms
+                                like Codechef (4 stars), Codeforce (Expert), HackerRank(Problem Solving Advance) and
+                                different hackathons. I have good knowledge of Algorithm, Data Structures, Machine
+                                Learning, Computer Vision, Robotics and Android App Development. </p>
+                            <ul align="center" style="margin-top: 25px;">
+                                <h3><b>👩🏽‍💻<a
+                                            href="https://github.com/amritanjali123/Portfolio/blob/master/Amritanjali(RESUME).pdf" style="text-decoration: none; font-family: 'Montserrat', sans-serif; font-size: 1.5rem; color:#05204A; font-weight: bold;">RESUME📄</b>
+                                </h3></a>
+                            </ul>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+
+
+
+
+            <p align="left" style="
+    top: 0;
+    bottom: 50px;
+    margin: 50px;
+style=" margin-top: 25px;>
+                <h3 align="left" style="font-family: 'Cinzel Decorative', cursive; font-size: 2rem; letter-spacing: 0.5rem; color: #111344;;">Connect with me:</h3>
+                <a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+                        alt="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" height="30" width="40" /></a>
+                <a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"
+                        alt="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" height="30" width="40" /></a>
+                <a href="https://instagram.com/amritanjali_dubey" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+                        alt="amritanjali_dubey" height="30" width="40" /></a>
+                <a href="https://www.codechef.com/users/amrit5" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amrit5"
+                        height="30" width="40" /></a>
+                <a href="https://www.hackerrank.com/amrit5" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amrit5"
+                        height="30" width="40" /></a>
+                <a href="https://www.leetcode.com/amritanjalidubey" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="amritanjalidubey"
+                        height="30" width="40" /></a>
+                <a href="https://www.hackerearth.com/@Amritanjali" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="amritanjali"
+                        height="30" width="40" /></a>
+                <a href="https://auth.geeksforgeeks.org/user/amritanjalidubey" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg"
+                        alt="amritanjalidubey" height="30" width="40" /></a>
+                <a href="https://www.youtube.com/channel/UCRQf4wqqh2_AJtsCEsZ-I8w" target="blank"><img align="center"
+                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Amritanjali"
+                        height="30" width="40" /></a>
+            </p>
+
+
+
+            <div align="center">
+                <iframe style="margin-top: 50px; margin-bottom: 50px;" width="700" height="400"
+                    src="https://www.youtube.com/embed/x1JFjUdjxoA">
+                </iframe>
+            </div>
+
+
+
+
+
+
+
+
+
+            <h3 align="left" style="margin-top: 50px; font-family: 'Cinzel Decorative', cursive; font-size: 2rem; letter-spacing: 0.5rem; color: #111344;">Languages and Tools:</h3>
+            <p align="left" style="
+    top: 0;
+    bottom: 25px;
+    margin: 25px;">
+                <a style="margin-left: 10px;" target="_blank"> <img src="ds.png" alt="DS_ALGO" width="50" height="40" />
+                </a>
+                <a style="margin-left: 10px;" href="https://www.tensorflow.org" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"
+                        width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://www.python.org" target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
+                        alt="python" width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" target="_blank"> <img src="numpy.png" alt="tensorflow" width="40"
+                        height="40" /> </a>
+                <a style="margin-left: 10px;" href="" target="_blank"> <img
+                        src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+                        alt="scikit_learn" width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" target="_blank"> <img src="keras.png" alt="Keras" width="50"
+                        height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://opencv.org/" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40"
+                        height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://developer.android.com" target="_blank">
+                    <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg"
+                        alt="android" width="40" height="40" /> </a>
+
+                <a style="margin-left: 10px;" href="https://www.cprogramming.com/" target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40"
+                        height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://www.w3schools.com/cpp/" target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg"
+                        alt="cplusplus" width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://www.w3.org/html/" target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
+                        alt="html5" width="40" height="40" /> </a>
+                <a href="https://www.w3schools.com/css/" target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg"
+                        alt="css3" width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://firebase.google.com/" target="_blank"> <img
+                        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
+                        height="40" /> </a>
+
+                <a style="margin-left: 10px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                    target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+                        alt="javascript" width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://www.mongodb.com/" target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
+                        alt="mongodb" width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://www.mysql.com/" target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+                        alt="mysql" width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" href="https://nodejs.org" target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+                        alt="nodejs" width="40" height="40" /> </a>
+                <a style="margin-left: 10px;" style="margin-left: 10px;" href="https://www.postgresql.org"
+                    target="_blank"> <img
+                        src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+                        alt="postgresql" width="40" height="40" /> </a>
+            </p>
+
+            <h3 style="margin-top: 50px; font-family: 'Cinzel Decorative', cursive; font-size: 2rem; letter-spacing: 0.5rem; color: #111344;"><b>EXPERIENCE </h3>
+
+            <div id="ourwork" class="ourwork">
+                <div class="works">
+                    <div class="card">
+                        <span2></span2>
+                        <span2></span2>
+                        <span2></span2>
+                        <span2></span2>
+                        <div class="content">
+                            <h2 style="font-family: 'Cinzel Decorative', cursive; font-size: 1.5rem; letter-spacing: 0.3rem;">DEEPLEARNING INTERNSHIP</h2>
+                            <p style="font-family: 'Montserrat', sans-serif; font-size: 1rem">
+
+                                <p style="font-family: 'Montserrat', sans-serif; font-size: 0.9rem; text-align: justify; margin-top: -2.5rem;">Worked on FACTS 7.0 (Fingerprint Analysis Criminal Tracing System)</p>
+                                <p style="font-family: 'Montserrat', sans-serif; font-size: 0.9rem; text-align: justify; margin-top: -1.5rem;">Role: Core and Delta Detection by image processing and deep learning technique </p>
+                                <p style="font-family: 'Montserrat', sans-serif; font-size: 0.9rem; text-align: justify; margin-top: -1.5rem;" >Implemented Research Paper, Used Candidate analysis to detect the location of core or
+                                    delta, U-Net
+                                    Architecture for training the model to improve the accuracy (achieved 98%) and
+                                    speed. Trained YOLO v5
+                                    on custom dataset. Tested the output with existing fingerprints data
+                                </p>
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <h3 style="margin-top: 50px; color: #111344; font-size: 1.6rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">👩🏽‍💻 <b>Machine Learning and Computer Vision Projects</b></h3>
+            <ul style="font-family: 'Raleway', sans-serif; color: #05204A; letter-spacing: 0.08rem;">
+                <li>
+                    <p>Detecting clouds and predicting their movement from INSAT imagery (team project) <a
+                            href="https://github.com/amritanjali123/NM373_Future_Predicators">open</a> </p>
+                </li>
+                <li>
+                    <p>CNN based project using Keras use to classify different type of rocks in lunar rock images <a
+                            href="https://github.com/amritanjali123/Rock_classification">open</a></p>
+                </li>
+                <li>
+                    <p>Analysis of the restaurant review <a
+                            href="https://github.com/amritanjali123/Restaurant_review">open</a></p>
+                </li>
+                <li>
+                    <p>Image Generation from previous image using Optical flow Algorithm <a
+                            href="https://github.com/amritanjali123/Image_generation_form_prevous_image_optical_flow">open</a>
+                    </p>
+                </li>
+                <li>
+                    <p>A initiative to write dfferent machine learning and image processing library from Scratch <a
+                            href="https://github.com/amritanjali123/Machine-Learning-and-Image-processing-library-from-scratch">open</a>
+                    </p>
+                </li>
+            </ul>
+
+
+
+            <h3 style="margin-top: 50px; color: #111344; font-size: 1.6rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">👩🏽‍💻 <b>Software Development </b></h3>
+            <ul style="font-family: 'Raleway', sans-serif; color: #05204A; letter-spacing: 0.08rem;">
+                <li>
+                    <p>Smart India Hackathon 2019 build a platform to connect doctor and MR (team project) <a
+                            href="https://github.com/amritanjali123/sih">open</a> </p>
+                </li>
+                <li>
+                    <p>Writen Script to automatically generate mail and send to list of email id using SMTP protocol
+                        Used during techFest'20 </p>
+                </li>
+                <li>
+                    <p>Android App where user can post blog and can see it in their feed with authentication features <a
+                            href="https://github.com/amritanjali123/blogapp">open</a></p>
+                </li>
+                <li>
+                    <p>Learning Project Calculator, Calling app, Search autocomplete etc
+                        <!---<a href="https://github.com/amritanjali123/Calculator">open</a> <a href="https://github.com/amritanjali123/Animation">open</a> <a href="https://github.com/amritanjali123/CALL">open</a>
+    <a href="https://github.com/amritanjali123/Autocomplet">open</a>-->
+                    </p>
+                </li>
+            </ul>
+
+
+
+            <h3 style="margin-top: 50px; color: #111344; font-size: 1.6rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">👩🏽‍💻<b>Robotics</b></h3>
+            <ul style="font-family: 'Raleway', sans-serif; color: #05204A; letter-spacing: 0.08rem;">
+                <li>
+                    <p>Pick and place bot using Dijkstra's Shortest Path First algorithm by V-REP (team project) <a
+                            href="https://github.com/amritanjali123/eyantra">open</a></p>
+                </li>
+                <li>
+                    <p>Pick and place bot using Dijkstra's Shortest Path First algorithm for microcontroller Atmega 2560
+                        (team project) <a href="https://github.com/amritanjali123/Pick_And_Place_Robot">open</a></p>
+                </li>
+                <li>
+                    <p>Implemented frequency filters on sensor data, Generated motion equation for physical System (team
+                        project) <a href="https://github.com/amritanjali123/Control_System">open</a> </p>
+                </li>
+            </ul>
+
+
+
+            <!---style="
+filter: drop-shadow(-15px 15px 7px black);
+        -webkit-filter: drop-shadow(-15px 15px 7px black);
+        
+    top: 0;
+    bottom: 50px;
+    margin: 50px;
+    background-color: ;" width="300" height="300"-->
+
+            <div align="center">
+                <img src="giif.gif" />
+            </div>
+
+
+
+            <p style="margin-top: 50px; color: #111344; font-size: 1.5rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;"><b>✌🏻 Apart from Coding I love Chess ♔, Taekwondo 🥋 Swimming, Squash</b></p>
+
+
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <style>
+                body {
+                    font-family: Arial, Helvetica, sans-serif;
+                }
+
+                * {
+                    box-sizing: border-box;
+                }
+
+                input[type=text],
+                select,
+                textarea {
+                    width: 100%;
+                    padding: 12px;
+                    border: 1px solid #ccc;
+                    border-radius: 4px;
+                    box-sizing: border-box;
+                    margin-top: 6px;
+                    margin-bottom: 16px;
+                    resize: vertical;
+                }
+
+                input[type=submit] {
+                    background-color: #4CAF50;
+                    color: white;
+                    padding: 12px 20px;
+                    border: none;
+                    border-radius: 4px;
+                    cursor: pointer;
+                }
+
+                input[type=submit]:hover {
+                    background-color: #45a049;
+                }
+
+                .container {
+                    border-radius: 5px;
+                    background-color: #f2f2f2;
+                    padding: 20px;
+                }
+            </style>
+
+
+            <h3 style="margin-top: 50px; color: #111344; font-size: 2rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Contact Me</h3>
+
+            <div class="container">
+                <form
+                    action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSe1cxLhUX8g2ZTnhdafx4k6jumARg3i2V9_vCEo7d3RWidfPA/formResponse">
+                    <label for="fname" style="color: #111344; font-size: 1.3rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">First Name</label>
+                    <input type="text" id="name" name="firstname" placeholder="Your name.." required name="">
+
+                    <label for="lname" style="color: #111344; font-size: 1.3rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Email</label>
+                    <input type="text" id="email" name="lastname" placeholder="Your email.." required name="">
+
+                    <label for="country" style="color: #111344; font-size: 1.3rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Country</label>
+                    <input type="text" id="country" name="country" placeholder="Your country" required name="">
+                    </select>
+
+                    <label for="subject" style="color: #111344; font-size: 1.3rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Subject</label>
+                    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px" required
+                        name=""></textarea>
+
+                    <input type="submit" value="Submit">
+                </form>
+            </div>
+
+
+
+
+
+            <footer>
+                <div align="center" style="
+    top: 0;
+    bottom: 50px;
+    margin: 50px;
+    background-color: ;">
+                    <p style="color: #111344; font-size: 2rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;"><b>Thank You</b></p>
+                    <p style="color: #111344; font-size: 1.1rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif; margin-top: -0.8rem;"><a href="mailto:amritanjai918@gmail.com" style="text-decoration: none;">amritanjali918@gmail.com</a></p>
+                    <p style="color: #111344; font-size: 1rem; letter-spacing: 0.1rem; font-family: 'Montserrat', sans-serif;">Copyright &copy; 2020 <span></span> All Rights Reserved by Amritanjali</p>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <!-----------------SmoothScoll------------>
+    <script>
+        var scroll = new SmoothScroll('a[href*="#"]', {
+            speed: 1500,
+            speedAsDuration: true
+        });
+        </script>
+        <!--------x--------SmoothScoll-----x------>
+
+</body>
+
+</html>
