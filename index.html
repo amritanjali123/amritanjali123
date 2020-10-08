@@ -237,6 +237,68 @@
                     transition-delay: 0s;
                 }
             </style>
+        <style>
+@-webkit-keyframes shake-horizontal {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    -webkit-transform: translateX(-10px);
+            transform: translateX(-10px);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: translateX(10px);
+            transform: translateX(10px);
+  }
+  80% {
+    -webkit-transform: translateX(8px);
+            transform: translateX(8px);
+  }
+  90% {
+    -webkit-transform: translateX(-8px);
+            transform: translateX(-8px);
+  }
+}
+@keyframes shake-horizontal {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+  }
+  10%,
+  30%,
+  50%,
+  70% {
+    -webkit-transform: translateX(-10px);
+            transform: translateX(-10px);
+  }
+  20%,
+  40%,
+  60% {
+    -webkit-transform: translateX(10px);
+            transform: translateX(10px);
+  }
+  80% {
+    -webkit-transform: translateX(8px);
+            transform: translateX(8px);
+  }
+  90% {
+    -webkit-transform: translateX(-8px);
+            transform: translateX(-8px);
+  }
+}
+.shake-horizontal {
+	-webkit-animation: shake-horizontal 4s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+	        animation: shake-horizontal 4s cubic-bezier(0.455, 0.030, 0.515, 0.955) both;
+}
+</style>
             <header>
                 <h1 align="center" style="margin-top: -1rem; color: #111344; font-family: 'Cinzel Decorative', cursive; font-size: 2.5rem; letter-spacing: 0.2rem;">Allow Me to Introduce Myself.</h1>
                 <h2 align="center" style="margin-top: -1.1rem; color: #2F195F; font-family: 'Montserrat', sans-serif; font-size: 2.4rem; letter-spacing: 0.2rem;">Hi 👋, AMRITANJALI</h2>
@@ -267,6 +329,11 @@
                     </div>
 
 
+                </div>
+        
+                </div>
+        <div align="center" style="margin-top: -2.0rem;" class="shake-horizontal">
+             <img src="cur.png"/>
                 </div>
             </div>
 
