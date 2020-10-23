@@ -275,20 +275,24 @@
   
         @keyframes animate { 
   
-            0% { 
+            100% { 
                 content: "COMPETITIVE CODER"; 
             } 
   
-            50% { 
+            75% { 
                 content: "DEVELOPER"; 
             } 
   
-            75% { 
-                content: "SPORTS ENTHUSIAST"; 
+            50% { 
+                content: " DATA SCIENTIST"; 
             } 
-		100% { 
+		25% { 
+                content:  "SPORTS ENTHUSIAST"; 
+            } 
+		5% { 
                 content:  "LEARNER"; 
             } 
+		
         } 
 
 
