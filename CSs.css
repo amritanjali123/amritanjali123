@@ -268,30 +268,28 @@
         } 
   
         span5::before { 
-            content: "Geeks"; 
+            content: "LEARNER"; 
             animation: animate infinite 8s; 
             padding-left: 10px; 
         } 
   
         @keyframes animate { 
   
-            100% { 
+            25% { 
                 content: "COMPETITIVE CODER"; 
             } 
   
-            75% { 
+            25% { 
                 content: "DEVELOPER"; 
             } 
   
-            50% { 
+            25% { 
                 content: " DATA SCIENTIST"; 
             } 
-		25% { 
+	    25% { 
                 content:  "SPORTS ENTHUSIAST"; 
             } 
-		5% { 
-                content:  "LEARNER"; 
-            } 
+		
 		
         } 
 
