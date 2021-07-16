@@ -1,12 +1,6 @@
+ <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="260px" width="260px"> <img src="giif.gif" /> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="260px" width="260px"> </p>
 
-    
-<html>
-  <body>
-<div align="center">
-<img src="https://github.com/amritanjali123/About-Me-and-my-Projects/blob/master/giif.gif" />
-</div>  
-  </body>
-</html>
+
 
 
 
