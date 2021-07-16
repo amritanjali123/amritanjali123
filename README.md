@@ -1,4 +1,4 @@
- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="260px" width="260px"> <img src="giif.gif" /> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="260px" width="260px"> </p>
+ <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width="200px"> <img src="giif.gif" /> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="200px" width="200px"> </p>
 
 
 
