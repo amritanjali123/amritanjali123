@@ -94,6 +94,7 @@
   <div align="center">
   <p><b>Thank You</b></p>
   <p><a href="mailto:amritanjai918@gmail.com">amritanjali918@gmail.com</a></p>
+<p><a href="https://topmate.io/amritanjali"> for 1:1 discussion </a></p>
      </div>
 </footer>  
  
