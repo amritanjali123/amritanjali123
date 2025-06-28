@@ -1,103 +1,130 @@
- <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="200px" width="200px"> <img src="giif.gif" /> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="200px" width="200px"> </p>
+<h1 align="center">Hi 👋, I'm Amritanjali</h1>
 
-
-
-
-
-<!--<html>
-<body>
-<div align="center">
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
- </div>  
-</iframe>
-</body>
-</html>-->
-<html>
-  <body>
-    <h1 align="center">Hi 👋, Amritanjali</h1>
-    <ul align="center">👩🏽‍💻<a href="https://github.com/amritanjali123/Portfolio/blob/master/Amritanjali_Cv.pdf">Resume📄</a></ul>   
-  </body>
-</html>
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/amritanjali-dubey-a7870b161/" height="30" width="40" /></a>
-<a href="https://instagram.com/amritanjali_dubey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amritanjali_dubey" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/amrit5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="amrit5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amrit5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amrit5" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amritanjalidubey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="amritanjalidubey" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@Amritanjali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="amritanjali" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/amritanjalidubey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="amritanjalidubey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCRQf4wqqh2_AJtsCEsZ-I8w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Amritanjali" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:amritanjalidubey1999@gmail.com">📫 Email</a> • 
+  <a href="https://www.linkedin.com/in/amrit5/">🔗 LinkedIn</a> • 
+  <a href="https://github.com/amritanjali123">💻 GitHub</a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="android.png" alt="android" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="C.png" alt="c" width="40" height="40"/> </a>   
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="cpp.png" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="css3.png" alt="css3" width="40" height="40"/> </a>   
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>   </a>   
-<a href="https://www.w3.org/html/" target="_blank"> <img src="html.png" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="javascript.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="mgdb.png" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="mysql.png" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="nodejs.png" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="python.jfif" alt="python" width="40" height="40"/> </a>
-<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🎓 Education
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanjali123&layout=compact" alt="amritanjali123" /></p>
+**Sant Longowal Institute of Engineering and Technology, Sangrur, Punjab**  
+📘 B.Tech in Electronics and Communication Engineering — **CGPA: 9.6/10**  
+📆 *Aug 2017 – May 2021*
 
-<html>
-  <body>
-    <h3>👩🏽‍💻 <b>Machine Learning and Computer Vision Projects 📈</b></h3>
-    <ul>
-    <li><p>Detecting clouds and predicting their movement from INSAT imagery (team project) <a href="https://github.com/amritanjali123/NM373_Future_Predicators">open</a>  </p></li>
-     <li> <p>CNN based project using Keras use to classify different type of rocks in lunar rock images <a href="https://github.com/amritanjali123/Rock_classification">open</a></p></li>
-    <li><p>Analysis of the restaurant review <a href="https://github.com/amritanjali123/Restaurant_review">open</a></p></li>
-    <li><p>Image Generation from previous image using Optical flow Algorithm <a href="https://github.com/amritanjali123/Image_generation_form_prevous_image_optical_flow">open</a></p></li>
- <li><p>A initiative to write different machine learning and image processing library from Scratch <a href="https://github.com/amritanjali123/Machine-Learning-and-Image-processing-library-from-scratch">open</a></p> </li>
-    
- </ul>
-     
-  </body>
-</html>
-<html>
-  <body>
-    <h3>👩🏽‍💻 <b>Software Development 🚀 </b></h3>
-    <ul>
-   <li> <p>Smart India Hackathon 2019 build a platform to connect doctor and MR (team project) <a href="https://github.com/amritanjali123/sih">open</a>  </p> </li>
-     <li> <p>Written Script to automatically generate mail and send to list of email id using SMTP protocol Used during techFest'20 </p>       </li>
-   <li> <p>Android App where user can post blog and can see it in their feed with authentication features <a href="https://github.com/amritanjali123/blogapp">open</a></p> </li>
-    <li><p>Learning Project Calculator, Calling app, Search autocomplete etc <a href="https://github.com/amritanjali123/Calculator">open</a> <a href="https://github.com/amritanjali123/Animation">open</a> <a href="https://github.com/amritanjali123/CALL">open</a>
-    <a href="https://github.com/amritanjali123/Autocomplet">open</a></p></li>
-    </ul>
-  </body>
-</html>
+---
 
-<html>
-  <body>
-    <h3>👩🏽‍💻<b>Robotics🤖</b></h3>
-    <ul>
-    <li><p>Pick and place bot using Dijkstra's Shortest Path First algorithm by V-REP (team project) <a href="https://github.com/amritanjali123/eyantra">open</a></p> </li>
-   <li><p>Pick and place bot using Dijkstra's Shortest Path First algorithm for microcontroller Atmega 2560 (team project) <a href="https://github.com/amritanjali123/Pick_And_Place_Robot">open</a></p></li> 
-    <li><p>Implemented frequency filters on sensor data, Generated motion equation for physical System  (team project) <a href="https://github.com/amritanjali123/Control_System">open</a> </p></li>
-    </ul>
-  </body>
-  </html>
-  <html>
-  <body>
- <p>✌🏻 Apart from Coding I love Chess ♔, Taekwondo 🥋</p>
+### 💼 Experience
 
+**Software Engineer II**  
+🧠 *Google, GCP — Bangalore, India*  
+📆 *Sep 2022 – Present*
 
-<footer>
-  <div align="center">
-  <p><b>Thank You</b></p>
-  <p><a href="mailto:amritanjai918@gmail.com">amritanjali918@gmail.com</a></p>
-<p><a href="https://topmate.io/amritanjali"> for 1:1 discussion </a></p>
-     </div>
-</footer>  
- 
-  
-  </body>
-</html>
+- 🌐 Full Stack Developer on Observability Team (Google Cloud Console, Gemini Integration).
+- 🔧 Owned CNQ (Google SDN tool), delivered end-to-end tooling used by 120+ SREs.
+- 🚀 Delivered Gemini integration project early, received spot bonus.
+- 🏅 10+ peer bonuses, 80k+ lines of code, 50+ interviews conducted.
+- **Tech Stack**: ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+
+**Software Engineer**  
+☁️ *Microsoft Azure — Bangalore, India*  
+📆 *Sep 2021 – Aug 2022*
+
+- 🔄 Developed Microsoft Cloud Solution Center as full-stack engineer.
+- **Tech Stack**: ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+
+**Software Engineer Intern**  
+🏦 *NCR Corporation — Hyderabad, India*  
+📆 *Jan 2021 – Jul 2021*
+
+- 💸 Developed ATM software (balance inquiry, cash deposit, etc).
+
+**Deep Learning Intern**  
+🧬 *TCS — Hyderabad, India*  
+📆 *Jul 2020 – Oct 2020*
+
+- 🧠 Used U-Net for fingerprint core/delta detection in FACTS 7.0.
+
+---
+
+### 💡 Projects
+
+**🌩 Smart India Hackathon — ISRO**  
+🛠️ *Python, Keras, TensorFlow*  
+📆 *Dec 2019 – Jun 2020*
+
+- Detected & predicted cloud movement in INSAT3D/3DR satellite imagery using ConvLSTM & Optical Flow.
+
+**🛍 Collaborative Shopping**  
+🛠️ *ReactJS, Node.js, Socket.IO*  
+📆 *Dec 2020 – Jan 2021*
+
+- Created video-call enabled group shopping platform with real-time screen sharing and feedback.
+
+---
+
+### 🏆 Achievements
+
+- 🥇 CodeChef: [amrit5](https://www.codechef.com/users/amrit5) (Max rating 1870+), SnackDown 2019 (Top 1.3%)
+- 👩‍💻 LeetCode: [amritanjalidubey](https://leetcode.com/amritanjalidubey/)
+- 💡 HackerRank: [amrit5](https://www.hackerrank.com/amrit5?hr_r=1) — Advanced Certificate, 4500+ pts, IWD Coding Contest 2021: *World Rank 8*
+- 🧠 Solved **1500+** problems across platforms, consistently in top 5% in CP contests.
+
+---
+
+### 🧰 Technical Skills
+
+**Languages & Frameworks**
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+**Frontend & Backend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-00599C?logo=grpc&logoColor=white)
+![REST](https://img.shields.io/badge/REST-000000?logo=rest&logoColor=white)
+
+**DevOps & Tools**
+
+![Kubernetes](https://img.shields.io/badge/Borg_K8s-326CE5?logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+
+**ML / CV Libraries**
+
+![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3E484A?logo=nltk&logoColor=white)
+ConvLSTM, CNN, Optical Flow
+
+---
+
+### 🔗 Links
+
+- 📄 [My Resume](https://drive.google.com/file/d/113fUlH3krtSQ2bF3eSePnCoVBCWoN3RL/view)
+- 🌩 [ISRO Satellite Project](https://github.com/amritanjali123/NM373_Future_Predicators)
+- 🛍 [Collaborative Shopping App](https://github.com/amritanjali123/Collaborative-Shopping)
+- 🥈 [HackerRank IWD Leaderboard](https://www.hackerrank.com/competitions/international-womens-day-coding-contest-2021/leaderboard)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amritanjali123/amritanjali123/main/github-metrics.svg" alt="Metrics" />
+</p>
+
+<p align="center">
+  <em>“Apart from coding, I love playing Chess ♔ and practicing Taekwondo 🥋.”</em>
+</p>
